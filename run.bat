@@ -1,0 +1,1 @@
+cd C:\Users\HP\Eclipse-workspace2\inetBankingv1mvn clean install
